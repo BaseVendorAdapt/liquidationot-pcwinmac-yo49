@@ -1,4 +1,4 @@
-# 
+# 轻量 liquidation sniper bot 预设 Mac OS版 | 开源 liquidation sniper bot 预设 PC Windows版。集成 实时数据源 和 做市，跨平台性能最大化。
 
 
 
